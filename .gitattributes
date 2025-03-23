@@ -1,2 +1,6 @@
+
 *.c linguist-detectable
 *.h linguist-detectable
+# Ignore HTML files from language stats
+*.html linguist-vendored
+*.css linguist-vendored
