@@ -1,4 +1,2 @@
 *.c linguist-detectable
 *.h linguist-detectable
-*.html linguist-vendored
-
